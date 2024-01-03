@@ -1,5 +1,5 @@
 # YOLOv5-Object-Detection-And-Cropping
-Lets do object detection, and cropping in few steps with help of  this repository demonstrates object detection using YOLOv5. Below are the steps to run object detection, display images, and crop detected objects.
+Lets do object detection, and cropping in few steps in COLAB with help of YOLOv5 this repository demonstrates object detection using YOLOv5. Below are the steps to run object detection, display images, and crop detected objects.
 
 ![obj_det](https://github.com/Afnanfreelancer/YOLOv5-Object-Detection-And-Cropping/assets/92038975/b3cd211c-31a9-413c-b180-19e561e19c1f)
 
